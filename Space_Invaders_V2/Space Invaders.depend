@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1343250945 source:c:\users\david\desktop\space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space invaders\inicia.h
+
+1370108260 source:c:\users\david\desktop\space invaders\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+
+1370109028 c:\users\david\desktop\space invaders\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\david\desktop\space invaders\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\1 explicacion\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\1 explicacion\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\1 explicacion\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\1 explicacion\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\inicia.h
+
+1530652453 source:c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\main.cpp
+	<allegro.h>
+	<time.h>
+	<iostream>
+	"escenario.h"
+	"personajes.h"
+	"facade.h"
+	"disparo.h"
+	<vector>
+
+1370109028 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1530061858 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\escenario.h
+	<allegro.h>
+
+1530055583 source:c:\users\fernando\pictures\space invaders oficial\space invaders oficial\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	"escenario.h"
+	"personajes.h"
+	<vector>
+
+1529768187 c:\users\fernando\pictures\space invaders oficial\space invaders oficial\escenario.h
+	<allegro.h>
+
+1530055051 c:\users\fernando\pictures\space invaders oficial\space invaders oficial\personajes.h
+	<allegro.h>
+	<string>
+	<iostream>
+
+1530665409 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\personajes.h
+	<allegro.h>
+	<vector>
+	"disparo.h"
+	<string>
+	<iostream>
+
+1530731553 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\disparo.h
+	<allegro.h>
+	"personajes.h"
+	<iostream>
+
+1530665619 c:\users\kenny\desktop\trabajos u\progra 4\space invaders oficial\facade.h
+	<allegro.h>
+	<time.h>
+	<iostream>
+	"escenario.h"
+	"personajes.h"
+	"disparo.h"
+	<vector>
+
+1530652453 source:c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\main.cpp
+	<allegro.h>
+	<time.h>
+	<iostream>
+	"escenario.h"
+	"personajes.h"
+	"facade.h"
+	"disparo.h"
+	<vector>
+
+1531263684 c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\escenario.h
+	<allegro.h>
+
+1531331354 c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\personajes.h
+	<allegro.h>
+	<vector>
+	"disparo.h"
+	"bridge.h"
+	<string>
+	<iostream>
+
+1531262693 c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\disparo.h
+	<allegro.h>
+	<iostream>
+
+1531333915 c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\facade.h
+	"escenario.h"
+	"bridge.h"
+	"personajes.h"
+	<allegro.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1531331689 c:\users\kenny\desktop\trabajos u\space invaders\space_invaders\space_invaders_v2\bridge.h
+	<allegro.h>
+
